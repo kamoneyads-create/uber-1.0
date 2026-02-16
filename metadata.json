@@ -1,0 +1,7 @@
+{
+  "name": " Uber 1.0 (Backup)",
+  "description": "Possiveis melhorias\nsincronizaçao de mapa ",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

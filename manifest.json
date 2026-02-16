@@ -1,0 +1,17 @@
+
+{
+  "name": "Uber Driver",
+  "short_name": "Driver",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "description": "Uber Driver Clone Interface",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/5969/5969178.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
